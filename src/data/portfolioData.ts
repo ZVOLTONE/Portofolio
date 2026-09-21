@@ -236,7 +236,7 @@ export const CERTIFICATES_LIST: CertificateItem[] = [
   },
   {
     id: "ibm-data-skills",
-    title: "Getting Started with Data",
+    title: "Data - AI Agent for Data Analysis",
     issuer: "IBM SkillsBuild",
     year: "2025",
     category: "AI & Data",
